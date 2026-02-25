@@ -18,9 +18,9 @@ export default function HomePage() {
       <HowItWorks />
       <WhyUs />
       <FeaturedConsultants />
-      <Specialties />
+      {/* <Specialties /> */}
       <Testimonials />
-      <FAQ />
+      {/* <FAQ /> */}
       <BlogPreview />
       <CTABanner />
       <Footer />
