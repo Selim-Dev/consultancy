@@ -13,7 +13,8 @@ export const consultants: Consultant[] = [
     currency: 'SAR',
     gender: 'male',
     languages: ['العربية', 'الإنجليزية'],
-    imageUrl: 'https://i.pravatar.cc/300?img=11',
+    imageUrl:
+      'https://png.pngtree.com/png-clipart/20231002/original/pngtree-young-afro-professional-doctor-png-image_13227671.png',
     bio: 'أخصائي نفسي إكلينيكي بخبرة تزيد عن 12 عاماً في علاج اضطرابات القلق والاكتئاب. حاصل على الدكتوراه من جامعة الملك سعود، ومعتمد من الهيئة السعودية للتخصصات الصحية.',
     experience: [
       'دكتوراه في علم النفس الإكلينيكي — جامعة الملك سعود',
@@ -58,7 +59,8 @@ export const consultants: Consultant[] = [
     currency: 'SAR',
     gender: 'female',
     languages: ['العربية'],
-    imageUrl: 'https://i.pravatar.cc/300?img=5',
+    imageUrl:
+      'https://thumbs.dreamstime.com/b/smiling-medical-doctor-woman-stethoscope-isolated-over-white-background-35552912.jpg',
     bio: 'معالجة نفسية متخصصة في العلاقات الزوجية والأسرية. أؤمن بأن العلاقات الصحية هي أساس الصحة النفسية، وأعمل مع عملائي لبناء تواصل أفضل وحياة أكثر انسجاماً.',
     experience: [
       'ماجستير في الإرشاد النفسي — جامعة الأميرة نورة',
@@ -101,7 +103,8 @@ export const consultants: Consultant[] = [
     currency: 'SAR',
     gender: 'male',
     languages: ['العربية', 'الإنجليزية', 'الفرنسية'],
-    imageUrl: 'https://i.pravatar.cc/300?img=12',
+    imageUrl:
+      'https://media.istockphoto.com/id/1468678624/photo/nurse-hospital-employee-and-portrait-of-black-man-in-a-healthcare-wellness-and-clinic-feeling.jpg?s=612x612&w=0&k=20&c=AGQPyeEitUPVm3ud_h5_yVX4NKY9mVyXbFf50ZIEtQI=',
     bio: 'طبيب نفسي استشاري بخبرة واسعة في تشخيص وعلاج الاضطرابات المزاجية. أجمع بين العلاج الدوائي والعلاج النفسي لتقديم رعاية شاملة ومتكاملة.',
     experience: [
       'البورد السعودي في الطب النفسي',
@@ -145,7 +148,8 @@ export const consultants: Consultant[] = [
     currency: 'SAR',
     gender: 'female',
     languages: ['العربية', 'الإنجليزية'],
-    imageUrl: 'https://i.pravatar.cc/300?img=9',
+    imageUrl:
+      'https://static.vecteezy.com/system/resources/thumbnails/026/375/249/small/ai-generative-portrait-of-confident-male-doctor-in-white-coat-and-stethoscope-standing-with-arms-crossed-and-looking-at-camera-photo.jpg',
     bio: 'أخصائية نفسية متخصصة في صحة الأطفال والمراهقين النفسية. أستخدم أساليب علاجية مبتكرة تناسب الفئات العمرية الصغيرة، مع إشراك الأسرة في خطة العلاج.',
     experience: [
       'ماجستير في علم نفس الطفل — جامعة الملك عبدالعزيز',
@@ -190,7 +194,8 @@ export const consultants: Consultant[] = [
     currency: 'SAR',
     gender: 'male',
     languages: ['العربية'],
-    imageUrl: 'https://i.pravatar.cc/300?img=13',
+    imageUrl:
+      'https://png.pngtree.com/png-clipart/20231002/original/pngtree-young-afro-professional-doctor-png-image_13227671.png',
     bio: 'أخصائي في علاج الإدمان والتعافي بمنهج شامل يجمع بين العلاج النفسي والدعم الاجتماعي. أؤمن بأن التعافي رحلة وليس وجهة، وأرافق عملائي في كل خطوة.',
     experience: [
       'ماجستير في علم النفس الإكلينيكي — جامعة الإمام',
@@ -234,7 +239,8 @@ export const consultants: Consultant[] = [
     currency: 'SAR',
     gender: 'female',
     languages: ['العربية', 'الإنجليزية'],
-    imageUrl: 'https://i.pravatar.cc/300?img=16',
+    imageUrl:
+      'https://thumbs.dreamstime.com/b/smiling-medical-doctor-woman-stethoscope-isolated-over-white-background-35552912.jpg',
     bio: 'أخصائية نفسية متخصصة في علاج الصدمات النفسية واضطراب ما بعد الصدمة. أستخدم تقنية EMDR والعلاج المعرفي السلوكي المركّز على الصدمات لمساعدة عملائي على التعافي واستعادة حياتهم.',
     experience: [
       'دكتوراه في علم النفس الإكلينيكي — جامعة الملك فيصل',
@@ -278,7 +284,8 @@ export const consultants: Consultant[] = [
     currency: 'SAR',
     gender: 'male',
     languages: ['العربية', 'الإنجليزية'],
-    imageUrl: 'https://i.pravatar.cc/300?img=14',
+    imageUrl:
+      'https://media.istockphoto.com/id/1468678624/photo/nurse-hospital-employee-and-portrait-of-black-man-in-a-healthcare-wellness-and-clinic-feeling.jpg?s=612x612&w=0&k=20&c=AGQPyeEitUPVm3ud_h5_yVX4NKY9mVyXbFf50ZIEtQI=',
     bio: 'أخصائي نفسي متخصص في إدارة الضغوط والاحتراق الوظيفي. أساعد المهنيين والموظفين على استعادة التوازن بين العمل والحياة الشخصية وبناء مهارات التأقلم الصحية.',
     experience: [
       'ماجستير في علم النفس المهني — جامعة الملك سعود',

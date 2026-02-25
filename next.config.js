@@ -6,10 +6,14 @@ const nextConfig = {
 
   reactStrictMode: true,
 
+  turbopack: {},
+
   // Disable devtools to avoid bundler errors in Next.js 15
   devIndicators: {
     buildActivity: false,
   },
+
+  turbopack: {},
 
   // Uncoment to add domain whitelist
   images: {
@@ -21,6 +25,22 @@ const nextConfig = {
       {
         protocol: 'https',
         hostname: 'i.pravatar.cc',
+      },
+      {
+        protocol: 'https',
+        hostname: 'png.pngtree.com',
+      },
+      {
+        protocol: 'https',
+        hostname: 'thumbs.dreamstime.com',
+      },
+      {
+        protocol: 'https',
+        hostname: 'media.istockphoto.com',
+      },
+      {
+        protocol: 'https',
+        hostname: 'static.vecteezy.com',
       },
       {
         protocol: 'https',
